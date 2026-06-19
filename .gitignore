@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.agents/
+.codex/
+
+*.log
+*.tmp
+
+/.ssh/
+id_ed25519*
+.gitconfig
